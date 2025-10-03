@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
-# 👋 Hey there! I'm Fee
+# 👋 Hey there! I'm Fe
 Welcome to my GitHub!  
 I'm a passionate developer & creator, always exploring new technologies and improving my skills. Feel free to connect with me below 👇🏻
 
